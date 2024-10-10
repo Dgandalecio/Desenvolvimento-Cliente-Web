@@ -1,0 +1,67 @@
+Título: Prototipagem de Aplicação Web com Foco em Usabilidade e Segurança no Front-End
+
+Objetivo:
+Desenvolver um protótipo de aplicação Web que aborde as melhores práticas de usabilidade e segurança no desenvolvimento Front-End. O objetivo é demonstrar como tecnologias como HTML e JavaScript podem ser utilizadas para melhorar a experiência do usuário e garantir a proteção de dados no navegador.
+
+Temas Envolvidos:
+
+Criptografia e Segurança da Informação no Front-End Web:
+
+Aplicar criptografia simétrica para armazenamento local de informações sensíveis, utilizando algoritmos como AES.
+Implementar validação de entradas de usuário para evitar ataques XSS e injeção de código.
+Como Melhorar a Usabilidade na Web no Front-End:
+
+Criação de componentes interativos (modais, tooltips) para guiar o usuário.
+Implementar navegação intuitiva com animações e feedback visual.
+Adicionar suporte a temas de cores, com um modo escuro, para acessibilidade.
+Aplicações de Front-End Web e Tecnologias:
+
+Uso de frameworks modernos como Bootstrap para facilitar a responsividade e a organização de elementos.
+Integração com APIs externas para apresentar conteúdos dinâmicos, como informações de clima.
+Aplicações de Front-End para o Ensino-Aprendizagem:
+
+Criar seções dedicadas a educar sobre tópicos de segurança na web, utilizando gráficos e visualizações interativas.
+Desenvolver quizzes interativos para testar o conhecimento do usuário sobre boas práticas de segurança e usabilidade.
+Estrutura do Protótipo:
+Página Inicial (HTML + CSS + JavaScript)
+
+Explicação introdutória sobre segurança e usabilidade no Front-End.
+Exibição de um menu interativo que leva a seções como "Criptografia" e "Usabilidade".
+Seção de Criptografia:
+
+Simulação interativa de criptografia/descriptografia usando JavaScript.
+Explicação dos conceitos básicos com exemplos práticos.
+Botão para armazenar um dado criptografado localmente no localStorage e demonstrar a segurança.
+Seção de Usabilidade:
+
+Demonstração de componentes como menus acessíveis, navegação rápida, e formulários amigáveis.
+Código comentado explicando o uso de tecnologias para implementar esses recursos.
+Implementação de feedback visual para guiar o usuário durante a interação.
+Quiz Interativo (Ensino-Aprendizagem):
+
+Uma série de perguntas de múltipla escolha sobre segurança e usabilidade.
+Uso de JavaScript para validar respostas e fornecer um resumo interativo de desempenho.
+Proposta para Apresentação de Pôster:
+O pôster será dividido em quatro seções principais:
+
+Introdução:
+
+Apresentar os temas abordados e a relevância para o desenvolvimento Front-End.
+Descrição do Protótipo:
+
+Estrutura e funcionalidades desenvolvidas.
+Capturas de tela das seções implementadas.
+Código e Tecnologias Utilizadas:
+
+Trechos de código e explicações das soluções adotadas.
+Resultados e Impacto:
+
+Conclusões sobre a aplicabilidade das práticas apresentadas e o valor para desenvolvedores Front-End.
+Ferramentas Utilizadas:
+
+HTML/CSS: Para estruturação e estilização das páginas.
+JavaScript: Para adicionar funcionalidades interativas e realizar operações de criptografia.
+Bootstrap: Para design responsivo e layout padronizado.
+Chart.js: Para gráficos educativos e interativos.
+Conclusão:
+O protótipo tem como objetivo não apenas servir como um exemplo de boas práticas, mas também fornecer uma base educacional para quem deseja aprender sobre desenvolvimento seguro e acessível na Web.
